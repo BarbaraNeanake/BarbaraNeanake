@@ -38,6 +38,19 @@ Passionate about merging technology and business, particularly AI-driven solutio
 
 ## **🤝 Let's Connect!**
 
-I’m excited to collaborate on innovative projects, discuss emerging technologies, or simply exchange ideas. Connect with me on [LinkedIn](https://id.linkedin.com/in/barbaraneanake), explore my [Portfolio](https://sites.google.com/mail.ugm.ac.id/barbaranea), follow me on [Instagram](https://www.instagram.com/neanakee), or reach out via [email](mailto:barbaraneanakeajiesti@mail.ugm.ac.id). Let's create something extraordinary together! 🚀
+I’d love to team up on cool projects, chat about the latest in tech, or just share some ideas! 💬
 
-For more details, visit [bit.ly/barbaranea](http://bit.ly/barbaranea).
+### **Let’s Connect on [LinkedIn Here!](https://id.linkedin.com/in/barbaraneanake) 🚀**
+
+<a href="https://www.linkedin.com/in/barbaraneanake" target="_blank">
+    <img src="https://github.com/BarbaraNeanake/BarbaraNeanake/blob/main/newLink.png" alt="My LinkedIn Page" width="550"/>
+</a>
+
+## **Check Out My [Portfolio Here!](https://sites.google.com/mail.ugm.ac.id/barbaranea) 🎨**
+
+<a href="https://sites.google.com/mail.ugm.ac.id/barbaranea/about-nea" target="_blank">
+    <img src="https://github.com/BarbaraNeanake/BarbaraNeanake/blob/main/Porto.png" alt="My Portfolio" width="550"/>
+</a>
+
+## Let’s Be Friends on [Instagram](https://www.instagram.com/neanakee) 📸, or Drop Me a Line via [Email](mailto:barbaraneanakeajiesti@mail.ugm.ac.id).
+For more details, kindly visit [bit.ly/barbaranea](http://bit.ly/barbaranea) and let’s make something amazing together! 🌟
