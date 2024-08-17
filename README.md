@@ -1,4 +1,4 @@
-#  <img src="https://github.com/BarbaraNeanake/BarbaraNeanake/blob/main/RemoveBG2.png" width="70"/>    *Hi, I'm Barbara Neanake! 👋*
+#  <img src="Hello3.gif" width="70"/>     *I'm Barbara Neanake! 👋*
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neanakee) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://id.linkedin.com/in/barbaraneanake) 
